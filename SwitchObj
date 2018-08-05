@@ -20,7 +20,7 @@ class SwitchObj:
         return
     
     def setDescription(self,description):
-        self.Description =
+        self.Description = description
         return
     
     def setVlan(self,arr=[]):
