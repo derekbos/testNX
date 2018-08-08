@@ -1,5 +1,5 @@
 import unittest
-from functionfun import fun
+from functionfail import fun
 class MyTest(unittest.TestCase):
     def test(self):
        self.assertEqual(fun(3), 4)
