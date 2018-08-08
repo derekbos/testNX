@@ -25,7 +25,7 @@ class SwitchObj:
     
     def setVlan(self,arr=[]):
         self.vlan = arr
-        print("vlan"
+        print("vlan")
         return
         
    
