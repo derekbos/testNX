@@ -1,5 +1,5 @@
 import unittest
 
 def fun(x):
-    return 1 + x
+    return x + 1
 
